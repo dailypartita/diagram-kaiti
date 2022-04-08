@@ -1,0 +1,249 @@
+<mxfile host="app.diagrams.net" modified="2022-04-08T04:31:11.819Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="xuehdWjXtjKcMTfgi8Fn" version="17.4.1" type="github">
+  <diagram id="th3lsl0XEAviYKm_NMQC" name="Page-1">
+    <mxGraphModel dx="782" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ir1AY_gEOhLy9KLY7Y3T-1" target="Ir1AY_gEOhLy9KLY7Y3T-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ir1AY_gEOhLy9KLY7Y3T-1" target="Ir1AY_gEOhLy9KLY7Y3T-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ir1AY_gEOhLy9KLY7Y3T-1" target="Ir1AY_gEOhLy9KLY7Y3T-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ir1AY_gEOhLy9KLY7Y3T-1" target="Ir1AY_gEOhLy9KLY7Y3T-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="82" y="50" width="32" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-2" value="合作方" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="75.25" y="81" width="45.5" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-4" value="超管" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="50.5" width="38" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-7" value="病原数据库" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="545" y="81" width="75" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-9" value="账号密码" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="65.5" y="7" width="65" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ir1AY_gEOhLy9KLY7Y3T-11" target="Ir1AY_gEOhLy9KLY7Y3T-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ir1AY_gEOhLy9KLY7Y3T-11" target="Ir1AY_gEOhLy9KLY7Y3T-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-11" value="样本" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="79" y="194" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-12" value="动物样本" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="74" y="234" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-14" value="环境样本" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="139" y="234" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ir1AY_gEOhLy9KLY7Y3T-21" target="Ir1AY_gEOhLy9KLY7Y3T-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Ir1AY_gEOhLy9KLY7Y3T-21" target="Ir1AY_gEOhLy9KLY7Y3T-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-21" value="样本衍生物" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="285" y="194" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ir1AY_gEOhLy9KLY7Y3T-22" target="Ir1AY_gEOhLy9KLY7Y3T-73" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-22" value="核酸" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="234" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Ir1AY_gEOhLy9KLY7Y3T-2" target="Ir1AY_gEOhLy9KLY7Y3T-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="275" y="261" as="sourcePoint" />
+            <mxPoint x="135" y="323" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-27" value="增删改" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="Ir1AY_gEOhLy9KLY7Y3T-26" connectable="0" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-27" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Ir1AY_gEOhLy9KLY7Y3T-2" target="Ir1AY_gEOhLy9KLY7Y3T-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395" y="254" as="sourcePoint" />
+            <mxPoint x="415" y="324" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-29" value="增删改" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="Ir1AY_gEOhLy9KLY7Y3T-28" connectable="0" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-16" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-30" value="样本ID&lt;br&gt;采样信息&lt;br&gt;环境信息&lt;br&gt;寄送信息&lt;br&gt;保管信息&lt;br&gt;备注" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="4" y="360" width="56" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-34" value="衍生物ID&lt;br&gt;衍生物来源&lt;br&gt;衍生物类型&lt;br&gt;保存&lt;br&gt;备注" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="200" y="230" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ir1AY_gEOhLy9KLY7Y3T-40" target="Ir1AY_gEOhLy9KLY7Y3T-75" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-40" value="测序数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="372.25" y="194" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ir1AY_gEOhLy9KLY7Y3T-45" target="Ir1AY_gEOhLy9KLY7Y3T-77" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-45" value="数据库" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="194" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-54" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Ir1AY_gEOhLy9KLY7Y3T-7" target="Ir1AY_gEOhLy9KLY7Y3T-40" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="404.9999999999998" y="119" as="sourcePoint" />
+            <mxPoint x="330.0000000000002" y="204" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="407" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-55" value="增删改" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="Ir1AY_gEOhLy9KLY7Y3T-54" connectable="0" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-26" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-58" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Ir1AY_gEOhLy9KLY7Y3T-7" target="Ir1AY_gEOhLy9KLY7Y3T-45" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="477.5000000000002" y="119" as="sourcePoint" />
+            <mxPoint x="499" y="204" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="495" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-59" value="增删改" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="Ir1AY_gEOhLy9KLY7Y3T-58" connectable="0" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ir1AY_gEOhLy9KLY7Y3T-60" target="Ir1AY_gEOhLy9KLY7Y3T-79" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-60" value="生信分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="547.5" y="194" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-61" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Ir1AY_gEOhLy9KLY7Y3T-7" target="Ir1AY_gEOhLy9KLY7Y3T-60" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="557.5000000000002" y="109" as="sourcePoint" />
+            <mxPoint x="589" y="204" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-62" value="增删改" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="Ir1AY_gEOhLy9KLY7Y3T-61" connectable="0" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ir1AY_gEOhLy9KLY7Y3T-63" target="Ir1AY_gEOhLy9KLY7Y3T-66" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ir1AY_gEOhLy9KLY7Y3T-63" target="Ir1AY_gEOhLy9KLY7Y3T-81" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-63" value="测序数据衍生物" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="632.5" y="194" width="107.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-64" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Ir1AY_gEOhLy9KLY7Y3T-7" target="Ir1AY_gEOhLy9KLY7Y3T-63" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550.0000000000002" y="109" as="sourcePoint" />
+            <mxPoint x="671.5" y="204" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="667.5" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-65" value="增删改" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="Ir1AY_gEOhLy9KLY7Y3T-64" connectable="0" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ir1AY_gEOhLy9KLY7Y3T-66" target="Ir1AY_gEOhLy9KLY7Y3T-83" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-66" value="病毒" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="632.5" y="234" width="107.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Ir1AY_gEOhLy9KLY7Y3T-11" target="Ir1AY_gEOhLy9KLY7Y3T-30" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="129" y="214" as="sourcePoint" />
+            <mxPoint x="174" y="244" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Ir1AY_gEOhLy9KLY7Y3T-12" target="Ir1AY_gEOhLy9KLY7Y3T-70" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="89" y="209" as="sourcePoint" />
+            <mxPoint x="100" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-70" value="动物信息&lt;br&gt;动物种群&lt;br&gt;样本类型&lt;br&gt;与家禽家畜接触情况&lt;br&gt;备注" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="66.75" y="270" width="64.5" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Ir1AY_gEOhLy9KLY7Y3T-14" target="Ir1AY_gEOhLy9KLY7Y3T-72" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="109" y="264" as="sourcePoint" />
+            <mxPoint x="164" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-72" value="环境类型&lt;br&gt;备注" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="139" y="270" width="51" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-73" value="核酸提取&lt;br&gt;核酸状态&lt;br&gt;备注" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="290" y="273" width="60" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-75" value="测序数据ID&lt;br&gt;测序信息&lt;br&gt;数据信息&lt;br&gt;备注" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="365.88" y="230" width="82.75" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-77" value="数据库ID&lt;br&gt;构建&lt;br&gt;数据来源&lt;br&gt;可重复性&lt;br&gt;备注" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="457.5" y="230" width="75" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-79" value="分析ID&lt;br&gt;分析信息&lt;br&gt;分析方法&lt;br&gt;备注" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="553.75" y="234" width="57.5" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-81" value="衍生物ID&lt;br&gt;衍生物来源&lt;br&gt;备注" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="750" y="270" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-83" value="病毒信息&lt;br&gt;分析预测&lt;br&gt;备注" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="654.38" y="265" width="63.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ir1AY_gEOhLy9KLY7Y3T-86" target="Ir1AY_gEOhLy9KLY7Y3T-87" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-86" value="人员" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="690" y="48.5" width="30" height="21.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-87" value="姓名&lt;br&gt;单位&lt;br&gt;联系方式&lt;br&gt;备注" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="750" y="20" width="55.62" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-95" value="备注：所有信息能量化的需要量化，提前确定好计量单位（如cm/mm）避免在每次记录时附加；不能量化的（比如分类）需要提前规定好取值范围，统一数据格式，提交前需要人工核对" style="text;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="20" y="1120" width="550" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-97" value="样本&#xa; 样本ID&#xa; 采样信息：采样时间，采样地点，采样批次，采样单位，采样人员，采样方式&#xa; 环境信息：GPS，海拔，生境，气候条件&#xa; 寄送信息：寄送时间，发件单位，收件单位，发件人，收件人，快递单号，快递方式&#xa; 保管信息：保存位置，保存温度，保存时间&#xa; 备注：其它值得关注的信息&#xa;&#xa;&#xa;动物样本（继承样本）&#xa; 动物信息：物种分类，发育阶段，年龄，性别，体重，形态学测量值&#xa; 动物种群：种群数量，年龄结构，种群特征，是否迁徙&#xa; 样本类型：鼻（咽）拭子，肛拭子，血清，心，肝，脾，肺，肾，肠，脑，胃，粪便，蜱虫&#xa; 与家禽家畜接触情况：附近（1km？）畜牧场个数，附近畜牧场主要动物种类，野生动物与家禽家畜接触频率&#xa; 备注：动物发病情况等其它值得关注的信息&#xa;&#xa;&#xa;环境样本（继承样本）&#xa; 环境类型：草料，水源，土壤，空气&#xa; 备注：其它值得关注的信息&#xa;&#xa;&#xa;样本衍生物&#xa; 衍生物ID&#xa; 衍生物来源：样本ID&#xa; 衍生物类型：DNA，RNA&#xa; 保存：保存位置，保存温度，保存方式&#xa;&#xa;&#xa;核酸（继承样本衍生物）&#xa; 核酸提取：提取单位，提取人员，提取试剂盒&#xa; 核酸状态：核酸浓度，核酸OD值，核酸总量" style="text;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="10" y="560" width="390" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-98" value="测序数据&#xa; 测序数据ID&#xa; 测序信息：测序时间，测序批次，测序方式（PE100/150？），测序设备&#xa; 数据信息：数据交付时间，数据路径，数据量，数据质量，下载链接&#xa;&#xa;&#xa;数据库&#xa; 数据库ID&#xa; 构建：构建时间，构建人员，软件版本，参数，构建代码&#xa; 数据来源：每个来源都需要提供md5&#xa; 可重复性：数据库md5，数据库路径&#xa;&#xa;&#xa;生信分析&#xa; 分析ID&#xa; 分析信息：分析起止时间，分析人员，分析路径&#xa; 分析方法：软件版本，软件参数，数据库ID，分析代码，随机种子&#xa;&#xa;&#xa;测序数据衍生物&#xa; 衍生物ID&#xa; 衍生物来源：样本ID，样本衍生物ID，测序数据ID，分析ID&#xa;&#xa;&#xa;病毒（继承测序数据衍生物）&#xa; 病毒信息：分类，序列，质量，最近源公共序列&#xa; 分析预测：人畜共患风险，宿主" style="text;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="410" y="570" width="410" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="Ir1AY_gEOhLy9KLY7Y3T-99" value="用户&lt;br&gt; 安全：账号，密码&lt;br&gt; 权限：按任意字段查询所有数据&lt;br&gt;&lt;br&gt;超级管理员（继承用户）&lt;br&gt; 权限拓展：增删改所有信息&lt;br&gt;&lt;br&gt;合作方人员（继承用户）&lt;br&gt; 权限拓展：增删改样本，样本衍生物信息&lt;br&gt;&lt;br&gt;生信分析员（继承用户）&lt;br&gt; 权限拓展：增删改测序数据，数据库，生信分析，测序数据衍生物信息" style="text;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="180" y="350" width="400" height="210" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
