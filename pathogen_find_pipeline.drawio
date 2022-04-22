@@ -1,29 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T14:33:15.061Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="W9zIrh2S_dd8j7dhDMxL" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-22T01:32:05.532Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="6bV7uLN5h4LNCw2MnlMb" version="17.4.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="920" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="uaA1YcUJ6YY9IfKOQAye-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="uaA1YcUJ6YY9IfKOQAye-1">
+        <mxCell id="uaA1YcUJ6YY9IfKOQAye-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="uaA1YcUJ6YY9IfKOQAye-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="过滤" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="100" y="85" width="50" height="30" as="geometry" />
+          <mxGeometry x="100" y="143" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uaA1YcUJ6YY9IfKOQAye-1" value="组装" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="290" y="85" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="uaA1YcUJ6YY9IfKOQAye-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uaA1YcUJ6YY9IfKOQAye-3" target="WIyWlLk6GJQsqaUBKTNV-3">
+        <mxCell id="uiCEPVEiiqifMQ_2zgBB-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uaA1YcUJ6YY9IfKOQAye-1" target="uiCEPVEiiqifMQ_2zgBB-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uaA1YcUJ6YY9IfKOQAye-3" value="raw reads" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="90" width="60" height="20" as="geometry" />
+        <mxCell id="uaA1YcUJ6YY9IfKOQAye-1" value="denovo组装" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="215" y="143" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uaA1YcUJ6YY9IfKOQAye-6" value="去掉低质量reads&lt;br&gt;去掉宿主reads&lt;br&gt;去掉核糖体reads" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.33;size=10;position=0.25;base=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="90" width="120" height="80" as="geometry" />
+        <mxCell id="uaA1YcUJ6YY9IfKOQAye-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uaA1YcUJ6YY9IfKOQAye-3" target="WIyWlLk6GJQsqaUBKTNV-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uaA1YcUJ6YY9IfKOQAye-7" value="去掉低质量reads&lt;br&gt;去掉宿主reads&lt;br&gt;去掉核糖体reads" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;size=30;position=0.17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" width="150" height="80" as="geometry" />
+        <mxCell id="uaA1YcUJ6YY9IfKOQAye-3" value="raw reads" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="20" y="148" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uaA1YcUJ6YY9IfKOQAye-6" value="去掉低质量reads&lt;br&gt;去掉宿主reads&lt;br&gt;去掉核糖体reads" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.58;size=8;position=0.33;base=30;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="50" y="58" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uiCEPVEiiqifMQ_2zgBB-0" value="DNA、RNA病毒用MEGAHIT&lt;br&gt;&lt;div&gt;&lt;span&gt;微生物使用SPAdes&lt;/span&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.58;size=8;position=0.33;base=30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="155" y="58" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uiCEPVEiiqifMQ_2zgBB-1" value="比对" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="355" y="143" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uiCEPVEiiqifMQ_2zgBB-3" value="比对到NR、NT库去除假阳性&lt;br&gt;比对到病毒/微生物基因组确定病原分类&lt;br&gt;比对到CDD进一步去除假阳性" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.27;size=8;position=0.33;base=30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="58" width="220" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
