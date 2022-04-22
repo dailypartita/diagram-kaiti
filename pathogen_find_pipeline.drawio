@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-22T01:53:48.558Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="dxrm279MCuoDwbb_e_D9" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-22T01:58:16.876Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="dxnrBLb3pma9ipJNHA-1" version="17.4.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="381" dy="209" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="626" dy="342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -23,10 +23,10 @@
           <mxGeometry x="20" y="148" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uaA1YcUJ6YY9IfKOQAye-6" value="去掉低质量reads&lt;br&gt;去掉宿主reads&lt;br&gt;去掉核糖体reads" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.58;size=8;position=0.33;base=30;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="50" y="58" width="100" height="80" as="geometry" />
+          <mxGeometry x="50" y="80" width="100" height="58" as="geometry" />
         </mxCell>
         <mxCell id="uiCEPVEiiqifMQ_2zgBB-0" value="DNA、RNA病毒用MEGAHIT&lt;br&gt;&lt;div&gt;&lt;span&gt;微生物使用SPAdes&lt;/span&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.58;size=8;position=0.33;base=30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="155" y="58" width="160" height="80" as="geometry" />
+          <mxGeometry x="155" y="80" width="160" height="58" as="geometry" />
         </mxCell>
         <mxCell id="uiCEPVEiiqifMQ_2zgBB-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="uiCEPVEiiqifMQ_2zgBB-5">
           <mxGeometry relative="1" as="geometry">
@@ -41,7 +41,7 @@
           <mxGeometry x="355" y="143" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uiCEPVEiiqifMQ_2zgBB-3" value="比对到NR、NT库去除假阳性&lt;br&gt;比对到病毒/微生物基因组确定病原分类&lt;br&gt;去掉没有比对上病毒、微生物基因组的contigs" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.27;size=8;position=0.33;base=30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="58" width="260" height="80" as="geometry" />
+          <mxGeometry x="320" y="80" width="250" height="58" as="geometry" />
         </mxCell>
         <mxCell id="uiCEPVEiiqifMQ_2zgBB-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uiCEPVEiiqifMQ_2zgBB-5" target="uiCEPVEiiqifMQ_2zgBB-13">
           <mxGeometry relative="1" as="geometry" />
@@ -50,19 +50,22 @@
           <mxGeometry x="355" y="250" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uiCEPVEiiqifMQ_2zgBB-11" value="用prodigal注释病毒蛋白&lt;br&gt;用prokka注释微生物蛋白&lt;br&gt;进一步与CDD比对去假阳" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;size=13;position=0.06;base=33;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="390" y="180" width="168" height="66" as="geometry" />
+          <mxGeometry x="390" y="180" width="150" height="66" as="geometry" />
         </mxCell>
         <mxCell id="uiCEPVEiiqifMQ_2zgBB-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uiCEPVEiiqifMQ_2zgBB-13" target="uiCEPVEiiqifMQ_2zgBB-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uiCEPVEiiqifMQ_2zgBB-13" value="聚类" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="215" y="250" width="50" height="30" as="geometry" />
+          <mxGeometry x="210" y="250" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uiCEPVEiiqifMQ_2zgBB-15" value="定量" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="85" y="250" width="50" height="30" as="geometry" />
+          <mxGeometry x="50" y="250" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uiCEPVEiiqifMQ_2zgBB-17" value="用prodigal注释病毒蛋白&lt;br&gt;用prokka注释微生物蛋白&lt;br&gt;进一步与CDD比对去假阳" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.24;size=10;position=0.3;base=30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="180" width="168" height="66" as="geometry" />
+        <mxCell id="uiCEPVEiiqifMQ_2zgBB-17" value="对病毒进行物种(id=0.95)和属(id=0.8)层面上的聚类，并检查代表序列的完整性，宿主污染" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.24;size=10;position=0.3;base=30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="180" width="180" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="uiCEPVEiiqifMQ_2zgBB-18" value="挑选聚类后cluster中的代表序列，用clean reads计算FPKM进行定量" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.42;size=10;position=0.3;base=30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="180" width="168" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
